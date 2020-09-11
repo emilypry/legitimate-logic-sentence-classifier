@@ -1,0 +1,38 @@
+A*(Bv~C)	1  
+Av~(B>C)	1  
+~(Av(B*C	0
+A*v(B>C)	0
+~(~Av~B)	1
+~~(A>~B)	1
+v(B*C)>A	0
+(B~C)*~A	0
+AB*(CvD)	0
+~(Av~~B)	1
+A*(~BvC)	1
+~Av(B*C)	1
+~A*~Bv~C	0
+A*(B~~C)	0
+A*(~B>C)	1
+B**(AvC)	0
+A~*(B>C)	0
+~~A>~~~B	1
+~(A>B)vC	1
+(CvB*~A)	0
+~(A*BvC)	0
+A>~(BvC)	1
+A*(BCvD)	0
+A~>(B*C)	0
+~~~~~~~A	1
+Av(B*~C)	1
+*Av(B*C)	0
+Avv(B>C)	0
+(A*B)~vC	0
+~(~A>~B)	1
+~(*A>~B)	0
+
+
+
+
+
+
+
