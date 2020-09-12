@@ -1,6 +1,6 @@
 %  A simple (but inspiring) example of multivariate logistic regression, where we 
 %  predict whether sentences are legitimate sentences of sentential logic or not.
-%  Full explanation here: 
+%  Full explanation here: https://boxofcubes.wordpress.com/2020/09/11/multivariate-logistic-regression/
 
 clear; close all; clc;
 
