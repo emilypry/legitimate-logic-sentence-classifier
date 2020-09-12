@@ -1,0 +1,12 @@
+~~Av(B*C
+A>~(B*C)
+>A*(BvC)
+~~A>~~~B
+AC*(BvC)
+A~*(BvC)
+(A*B)>~C
+(A*B)~>C
+(BvC)*~A
+(~~A*~~B
+~(~A>~B)
+~)~A*~B)
